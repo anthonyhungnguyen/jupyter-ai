@@ -27,7 +27,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jupyterlab/jupyter-ai.git"
+    "url": "https://github.com/anthonyhungnguyen/jupyter-ai"
   },
   "scripts": {
     "build": "jlpm build:lib && jlpm build:labextension:dev",
