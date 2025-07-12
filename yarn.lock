@@ -30,6 +30,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@anthonyhungnguyen/jupyter-ai-test@workspace:packages/jupyter-ai-test":
+  version: 0.0.0-use.local
+  resolution: "@anthonyhungnguyen/jupyter-ai-test@workspace:packages/jupyter-ai-test"
+  languageName: unknown
+  linkType: soft
+
 "@anthonyhungnguyen/jupyter-ai@workspace:packages/jupyter-ai":
   version: 0.0.0-use.local
   resolution: "@anthonyhungnguyen/jupyter-ai@workspace:packages/jupyter-ai"
@@ -2296,12 +2302,6 @@ __metadata:
   checksum: ac7dd2cfe0b479aa1b81776d40d789243131cc792dc8b6b6a028c70fcd6171958ae1a71bf67b618ffe3c0c3feead9870c095ee46a5e30319410d92976b28f498
   languageName: node
   linkType: hard
-
-"@jupyter-ai/test@workspace:packages/jupyter-ai-test":
-  version: 0.0.0-use.local
-  resolution: "@jupyter-ai/test@workspace:packages/jupyter-ai-test"
-  languageName: unknown
-  linkType: soft
 
 "@jupyter-notebook/application@npm:^7.2.0":
   version: 7.3.3

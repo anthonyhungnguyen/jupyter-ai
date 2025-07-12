@@ -1,4 +1,4 @@
 {
-  "name": "@jupyter-ai/core",
-  "implicitDependencies": ["@jupyter-ai/magics"]
+  "name": "@anthonyhungnguyen/jupyter-ai",
+  "implicitDependencies": ["@anthonyhungnguyen/jupyter-ai-magics"]
 }

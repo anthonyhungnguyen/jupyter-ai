@@ -24,7 +24,7 @@
   ],
   "scripts": {
     "build": "lerna run build --stream",
-    "build:core": "lerna run build --stream --scope \"@jupyter-ai/core\"",
+    "build:core": "lerna run build --stream --scope \"@anthonyhungnguyen/jupyter-ai\"",
     "build:prod": "lerna run build:prod --stream",
     "clean": "lerna run clean",
     "clean:all": "lerna run clean:all",
