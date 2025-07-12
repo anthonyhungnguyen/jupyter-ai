@@ -1,5 +1,5 @@
 {
-  "name": "anthonyhungnguyen/jupyter-ai",
+  "name": "@anthonyhungnguyen/jupyter-ai",
   "version": "0.0.5",
   "description": "A generative AI extension for JupyterLab",
   "keywords": [

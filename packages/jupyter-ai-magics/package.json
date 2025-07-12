@@ -1,5 +1,5 @@
 {
-  "name": "anthonyhungnguyen/jupyter-ai-magics",
+  "name": "@anthonyhungnguyen/jupyter-ai-magics",
   "version": "0.0.5",
   "description": "Jupyter AI magics Python package. Not published on NPM.",
   "private": true,
