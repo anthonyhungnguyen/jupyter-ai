@@ -1,6 +1,6 @@
 {
   "name": "@anthonyhungnguyen/jupyter-ai-monorepo",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "A generative AI extension for JupyterLab",
   "private": true,
   "keywords": [
